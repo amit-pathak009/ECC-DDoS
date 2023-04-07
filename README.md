@@ -1,5 +1,5 @@
 # EagleCyberCrew DDoS Tool 
-This tool is using python3
+This tool is using python3 and it doesn't work on termux
 ## Installation
 
 

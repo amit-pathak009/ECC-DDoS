@@ -14,4 +14,4 @@ cd ECC-DDoS
 ```
 python3 main.py (target)
 ```
-![Tools Image]([http://url/to/img.png](https://ibb.co/GsJYpQ9))
+![Tools Image]([https://ibb.co/GsJYpQ9])

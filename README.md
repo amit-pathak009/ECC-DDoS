@@ -14,4 +14,4 @@ cd ECC-DDoS
 ```
 python3 main.py (target)
 ```
-![Tools Image]([https://ibb.co/GsJYpQ9])
+![Example usage](https://ibb.co/GsJYpQ9 "Example usage")
